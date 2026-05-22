@@ -1,8 +1,0 @@
-{
-  "en-el": {
-    "name": "English to Greek",
-    "modelUrl": "https://huggingface.co/Helsinki-NLP/opus-mt-en-el/resolve/main/source.spm",
-    "sourceSpmUrl": "https://huggingface.co/Helsinki-NLP/opus-mt-en-el/resolve/main/source.spm",
-    "targetSpmUrl": "https://huggingface.co/Helsinki-NLP/opus-mt-en-el/resolve/main/target.spm"
-  }
-}
