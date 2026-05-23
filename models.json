@@ -29,9 +29,9 @@
   },
   "en-el": {
     "name": "English to Greek",
-    "encoderUrl": "https://huggingface.co/YOUR_USERNAME/opus-mt-en-el-onnx/resolve/main/encoder_model.onnx",
-    "decoderUrl": "https://huggingface.co/YOUR_USERNAME/opus-mt-en-el-onnx/resolve/main/decoder_model_merged.onnx",
-    "sourceSpmUrl": "https://huggingface.co/YOUR_USERNAME/opus-mt-en-el-onnx/resolve/main/source.spm",
-    "targetSpmUrl": "https://huggingface.co/YOUR_USERNAME/opus-mt-en-el-onnx/resolve/main/target.spm"
+    "encoderUrl": "https://huggingface.co/onnx-community/opus-mt-en-el-onnx/resolve/main/encoder_model.onnx",
+    "decoderUrl": "https://huggingface.co/onnx-community/opus-mt-en-el-onnx/resolve/main/decoder_model_merged.onnx",
+    "sourceSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-el-onnx/resolve/main/source.spm",
+    "targetSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-el-onnx/resolve/main/target.spm"
   }
 }
