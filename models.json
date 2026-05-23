@@ -1,14 +1,9 @@
 {
-  "en-el": {
-    "name": "English to Greek",
-    "modelUrl": "https://huggingface.co/Helsinki-NLP/opus-mt-en-el/resolve/main/model.onnx",
-    "sourceSpmUrl": "https://huggingface.co/Helsinki-NLP/opus-mt-en-el/resolve/main/source.spm",
-    "targetSpmUrl": "https://huggingface.co/Helsinki-NLP/opus-mt-en-el/resolve/main/target.spm"
-  },
   "en-es": {
     "name": "English to Spanish",
-    "modelUrl": "https://huggingface.co/Helsinki-NLP/opus-mt-en-es/resolve/main/model.onnx",
-    "sourceSpmUrl": "https://huggingface.co/Helsinki-NLP/opus-mt-en-es/resolve/main/source.spm",
-    "targetSpmUrl": "https://huggingface.co/Helsinki-NLP/opus-mt-en-es/resolve/main/target.spm"
+    "encoderUrl": "https://huggingface.co/onnx-community/opus-mt-en-es/resolve/main/onnx/encoder_model.onnx",
+    "decoderUrl": "https://huggingface.co/onnx-community/opus-mt-en-es/resolve/main/onnx/decoder_model_merged.onnx",
+    "sourceSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-es/resolve/main/source.spm",
+    "targetSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-es/resolve/main/target.spm"
   }
 }
