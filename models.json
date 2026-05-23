@@ -5,5 +5,33 @@
     "decoderUrl": "https://huggingface.co/onnx-community/opus-mt-en-es/resolve/main/onnx/decoder_model_merged.onnx",
     "sourceSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-es/resolve/main/source.spm",
     "targetSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-es/resolve/main/target.spm"
+  },
+  "es-en": {
+    "name": "Spanish to English",
+    "encoderUrl": "https://huggingface.co/onnx-community/opus-mt-es-en/resolve/main/onnx/encoder_model.onnx",
+    "decoderUrl": "https://huggingface.co/onnx-community/opus-mt-es-en/resolve/main/onnx/decoder_model_merged.onnx",
+    "sourceSpmUrl": "https://huggingface.co/onnx-community/opus-mt-es-en/resolve/main/source.spm",
+    "targetSpmUrl": "https://huggingface.co/onnx-community/opus-mt-es-en/resolve/main/target.spm"
+  },
+  "en-fr": {
+    "name": "English to French",
+    "encoderUrl": "https://huggingface.co/onnx-community/opus-mt-en-fr/resolve/main/onnx/encoder_model.onnx",
+    "decoderUrl": "https://huggingface.co/onnx-community/opus-mt-en-fr/resolve/main/onnx/decoder_model_merged.onnx",
+    "sourceSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-fr/resolve/main/source.spm",
+    "targetSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-fr/resolve/main/target.spm"
+  },
+  "en-de": {
+    "name": "English to German",
+    "encoderUrl": "https://huggingface.co/onnx-community/opus-mt-en-de/resolve/main/onnx/encoder_model.onnx",
+    "decoderUrl": "https://huggingface.co/onnx-community/opus-mt-en-de/resolve/main/onnx/decoder_model_merged.onnx",
+    "sourceSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-de/resolve/main/source.spm",
+    "targetSpmUrl": "https://huggingface.co/onnx-community/opus-mt-en-de/resolve/main/target.spm"
   }
 }
+"en-el": {
+    "name": "English to Greek",
+    "encoderUrl": "https://huggingface.co/YOUR_USERNAME/opus-mt-en-el-onnx/resolve/main/encoder_model.onnx",
+    "decoderUrl": "https://huggingface.co/YOUR_USERNAME/opus-mt-en-el-onnx/resolve/main/decoder_model_merged.onnx",
+    "sourceSpmUrl": "https://huggingface.co/YOUR_USERNAME/opus-mt-en-el-onnx/resolve/main/source.spm",
+    "targetSpmUrl": "https://huggingface.co/YOUR_USERNAME/opus-mt-en-el-onnx/resolve/main/target.spm"
+  }
