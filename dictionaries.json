@@ -1,0 +1,14 @@
+{
+  "en": {
+    "name": "English",
+    "wordlistUrl": "https://raw.githubusercontent.com/YOUR_REPO/main/dictionaries/en/wordlist.txt",
+    "autocorrectUrl": "https://raw.githubusercontent.com/YOUR_REPO/main/dictionaries/en/autocorrect.txt",
+    "bigramsUrl": "https://raw.githubusercontent.com/YOUR_REPO/main/dictionaries/en/bigrams_raw.txt"
+  },
+  "el": {
+    "name": "Greek",
+    "wordlistUrl": "https://raw.githubusercontent.com/YOUR_REPO/main/dictionaries/el/wordlist.txt",
+    "autocorrectUrl": "https://raw.githubusercontent.com/YOUR_REPO/main/dictionaries/el/autocorrect.txt",
+    "bigramsUrl": "https://raw.githubusercontent.com/YOUR_REPO/main/dictionaries/el/bigrams_raw.txt"
+  }
+}
